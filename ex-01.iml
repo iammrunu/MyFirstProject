@@ -1,0 +1,28 @@
+class Person
+{
+ String Name;
+ int Age;
+ String Gender;
+ Double Height;
+ Double Weight;
+ int id;
+ String Address;
+ String Accupation;
+ String Nationality;
+
+ //Methods
+
+ changeName()
+ {
+    system.out.println("change the name");
+ }
+ changeAge(){}
+ determineAgeGroup(){}
+ isMaleOrFemale(){}
+ changeHeight(){}
+ changeWeight(){}
+ changeid(){}
+ changeAddress(){}
+ changeAccupation(){}
+ changeNationality(){}
+}
