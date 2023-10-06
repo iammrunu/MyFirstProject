@@ -10,7 +10,7 @@ class Person
  String Accupation;
  String Nationality;
 
- //Methods for User
+ //Methods for new user
 
  changeName()
  {
