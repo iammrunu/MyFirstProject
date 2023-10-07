@@ -10,7 +10,7 @@ class Person
  String Accupation;
  String Nationality;
 
- //Methods for new user //my new file
+ //Methods for new user //my new file22
 
  changeName()
  {
