@@ -2,7 +2,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
-    // testing22
             p1.Name="Rahul";
         p2.Age=35
         p1.Age=38
